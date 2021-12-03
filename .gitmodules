@@ -43,3 +43,18 @@
 [submodule "newplayer"]
 	path = newplayer
 	url = https://cheapiesystems.com/git/newplayer
+[submodule "NC_WK_LIGHT"]
+	path = NC_WK_LIGHT
+	url = https://github.com/wintersknight94/NC_WK_LIGHT.git
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2.git
+[submodule "yctie"]
+	path = yctie
+	url = https://github.com/Avicennia/yctie.git
+[submodule "notice"]
+	path = notice
+	url = https://github.com/BlockCityCreative/notice.git
