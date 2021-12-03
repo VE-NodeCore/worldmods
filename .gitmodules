@@ -1,0 +1,45 @@
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas/
+[submodule "irc"]
+	path = irc
+	url = https://github.com/minetest-mods/irc.git
+[submodule "irc_commands"]
+	path = irc_commands
+	url = https://github.com/minetest-mods/irc_commands.git
+[submodule "NC_Adamant"]
+	path = NC_Adamant
+	url = https://github.com/wintersknight94/NC_Adamant
+[submodule "nc_exmachina"]
+	path = nc_exmachina
+	url = https://gitlab.com/sztest/nc_exmachina.git
+[submodule "NC-Lignite"]
+	path = NC-Lignite
+	url = https://github.com/wintersknight94/NC-Lignite
+[submodule "nc_nature"]
+	path = nc_nature
+	url = https://gitlab.com/sztest/nc_nature.git
+[submodule "nc_pumbob"]
+	path = nc_pumbob
+	url = https://github.com/wintersknight94/nc_pumbob.git
+[submodule "nc_pummine"]
+	path = nc_pummine
+	url = https://github.com/wintersknight94/nc_pummine.git
+[submodule "nc_skyrealm"]
+	path = nc_skyrealm
+	url = https://gitlab.com/sztest/nc_skyrealm.git
+[submodule "nc_steam"]
+	path = nc_steam
+	url = https://github.com/wintersknight94/nc_steam.git
+[submodule "NC_Vulcan"]
+	path = NC_Vulcan
+	url = https://github.com/wintersknight94/NC_Vulcan.git
+[submodule "nc_yctiwy"]
+	path = nc_yctiwy
+	url = https://gitlab.com/sztest/nc_yctiwy.git
+[submodule "nc_ziprunes"]
+	path = nc_ziprunes
+	url = https://gitlab.com/sztest/nc_ziprunes.git
+[submodule "newplayer"]
+	path = newplayer
+	url = https://cheapiesystems.com/git/newplayer
