@@ -61,3 +61,6 @@
 [submodule "reboot_warner"]
 	path = reboot_warner
 	url = https://github.com/mt-mods/reboot_warner.git
+[submodule "player_count_tracker"]
+	path = player_count_tracker
+	url = https://github.com/VE-NodeCore/player_count_tracker/
