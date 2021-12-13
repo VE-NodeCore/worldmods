@@ -7,9 +7,6 @@
 [submodule "irc_commands"]
 	path = irc_commands
 	url = https://github.com/minetest-mods/irc_commands.git
-[submodule "NC_Adamant"]
-	path = NC_Adamant
-	url = https://github.com/wintersknight94/NC_Adamant
 [submodule "nc_exmachina"]
 	path = nc_exmachina
 	url = https://gitlab.com/sztest/nc_exmachina.git
