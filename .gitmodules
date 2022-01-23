@@ -25,9 +25,6 @@
 [submodule "nc_skyrealm"]
 	path = nc_skyrealm
 	url = https://gitlab.com/sztest/nc_skyrealm.git
-[submodule "nc_steam"]
-	path = nc_steam
-	url = https://github.com/wintersknight94/nc_steam.git
 [submodule "NC_Vulcan"]
 	path = NC_Vulcan
 	url = https://github.com/wintersknight94/NC_Vulcan.git
