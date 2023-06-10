@@ -64,3 +64,6 @@
 [submodule "NC-Adamant-Revised"]
 	path = NC-Adamant-Revised
 	url = https://github.com/wintersknight94/NC-Adamant-Revised
+[submodule "shadowmute"]
+	path = shadowmute
+	url = https://github.com/wsor4035/shadowmute.git
