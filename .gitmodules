@@ -67,3 +67,6 @@
 [submodule "shadowmute"]
 	path = shadowmute
 	url = https://github.com/wsor4035/shadowmute.git
+[submodule "NodeCore-Crystals"]
+	path = NodeCore-Crystals
+	url = https://github.com/wintersknight94/NodeCore-Crystals.git
