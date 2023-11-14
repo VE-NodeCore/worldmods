@@ -71,3 +71,5 @@ for _, temper in words("annealed hot tempered") do
 		)
 	end
 end
+
+minetest.register_alias("wc_adamant:tool_pick_infused", "wc_adamant:tool_pick")
