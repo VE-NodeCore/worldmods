@@ -72,4 +72,8 @@ for _, temper in words("annealed hot tempered") do
 	end
 end
 
-minetest.register_alias("wc_adamant:tool_pick_infused", "wc_adamant:tool_pick")
+for k, v in pairs(minetest.registered_items) do
+	if string.match(k, "wc_adamant:tool_") then
+	  minetest.register_alias(k .. "_infused", k)
+	end
+  end
